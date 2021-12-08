@@ -17,6 +17,9 @@
 
 ### [Click here to see the Video Review](LINK_TO_LOOM_VIDEO)
 
+## Screenshots
+![alt text](assets/swagger_demo.png)
+
 ## Sequence Diagrams
 ![alt text](assets/get_sequence_diagram.png)
 
