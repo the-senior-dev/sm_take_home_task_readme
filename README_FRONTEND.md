@@ -6,21 +6,20 @@
 
 ### [Click here to see the Video Review]([LINK_TO_LOOM_VIDEO])
 
-## Assumptions
-
-*TODO: [ASSUMPTIONS_MADE_HERE]*
-
 ## Proposed Solution
 
 *TODO: [ADD_SOLUTION_DESCRIPTION]*
 - break down the steps you followed
 - use bullet points to explain it in a very structured way
 
-
 ### [Click here to see the Live Demo]([LINK_TO_THE_DEPLOYED_APP])
 
 ## Screenshots
 ![alt text](assets/app_screen.png)
+
+## Assumptions
+
+*TODO: [ASSUMPTIONS_MADE_HERE]*
 
 ## Libraries / Tools Used
 
