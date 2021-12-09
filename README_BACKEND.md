@@ -7,21 +7,22 @@
 
 ### [Click here to see the Video Review](LINK_TO_LOOM_VIDEO)
 
-## Assumptions
-
-- [ASSUMPTIONS_MADE_HERE]
-
 ## Proposed Solution
 
 *TODO: [ADD_SOLUTION_DESCRIPTION]*
 - break down the steps you followed
 - use bullet points to explain it in a very structured way
 
+## Sequence Diagrams
+![alt text](assets/get_sequence_diagram.png)
+
 ## Screenshots
 ![alt text](assets/swagger_demo.png)
 
-## Sequence Diagrams
-![alt text](assets/get_sequence_diagram.png)
+## Assumptions
+
+- [ASSUMPTIONS_MADE_HERE]
+
 
 ## Libraries / Tools Used
 
