@@ -5,6 +5,8 @@
 
 [Sophie Lewis](mailto:sophie@codewithdragos.com)
 
+### [Click here to see the Video Review](LINK_TO_LOOM_VIDEO)
+
 ## Assumptions
 
 - [ASSUMPTIONS_MADE_HERE]
@@ -14,8 +16,6 @@
 *TODO: [ADD_SOLUTION_DESCRIPTION]*
 - break down the steps you followed
 - use bullet points to explain it in a very structured way
-
-### [Click here to see the Video Review](LINK_TO_LOOM_VIDEO)
 
 ## Screenshots
 ![alt text](assets/swagger_demo.png)
