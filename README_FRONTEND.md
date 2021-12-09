@@ -4,6 +4,8 @@
 
 [Sophie Lewis](mailto:sophie@codewithdragos.com)
 
+### [Click here to see the Video Review]([LINK_TO_LOOM_VIDEO])
+
 ## Assumptions
 
 *TODO: [ASSUMPTIONS_MADE_HERE]*
@@ -14,7 +16,8 @@
 - break down the steps you followed
 - use bullet points to explain it in a very structured way
 
-### [Click here to see the Video Review]([LINK_TO_LOOM_VIDEO])
+
+### [Click here to see the Live Demo]([LINK_TO_THE_DEPLOYED_APP])
 
 ## Screenshots
 ![alt text](assets/app_screen.png)
